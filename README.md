@@ -3,10 +3,12 @@
 ### Description
 Realistic Real Time Grass Rendering With Unity.
 ![](http://images2017.cnblogs.com/blog/686199/201709/686199-20170924102024259-1948824515.jpg)
-![](http://images2017.cnblogs.com/blog/686199/201709/686199-20170924102926525-1829808194.png)
+![](http://images.cnblogs.com/cnblogs_com/murongxiaopifu/662093/o_686199-20170924102926525-1829808194.png)
 Using the Geometry Shader to generate millions of grass on GPU.
 ![](http://images2017.cnblogs.com/blog/686199/201709/686199-20170924102841103-1853404544.png)
 
+### Requirement
+Unity 5.6+
 
 ### Ref
 【1】[《Chapter 7. Rendering Countless Blades of Waving Grass》](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch07.html)
