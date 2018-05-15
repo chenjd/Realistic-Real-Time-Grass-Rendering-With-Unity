@@ -13,6 +13,9 @@ Using the Geometry Shader to generate millions of grass on GPU.
 ### Requirement
 Unity 5.6+
 
+## Update
+Unity 2017.3 supports 32-bit index buffer.
+
 ### Ref
 【1】[《Chapter 7. Rendering Countless Blades of Waving Grass》](https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch07.html)
 
