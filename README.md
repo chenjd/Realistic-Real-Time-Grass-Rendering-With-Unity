@@ -4,8 +4,8 @@
 Realistic Real Time Grass Rendering With Unity.
 ![](http://images2017.cnblogs.com/blog/686199/201709/686199-20170924102024259-1948824515.jpg)
 Using the Geometry Shader to generate millions of grass on GPU.
-![ref：Edward Lee](http://images2017.cnblogs.com/blog/686199/201709/686199-20170924102841103-1853404544.png)
-
+![](http://images2017.cnblogs.com/blog/686199/201709/686199-20170924102841103-1853404544.png)
+ref：Edward Lee
 ### Article(Chinese)
 [利用GPU实现无尽草地的实时渲染](http://www.cnblogs.com/murongxiaopifu/p/7572703.html)
 
